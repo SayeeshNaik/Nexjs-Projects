@@ -10,7 +10,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import {getMethod} from '@/app/apiServices/apiMethods';
 import { useEffect, useState } from 'react';
 
-//
+
 function wtsp() {
 
   const [loading, setLoading] = useState(true)
